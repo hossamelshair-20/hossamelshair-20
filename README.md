@@ -17,7 +17,7 @@ Happy Coding! 😊
 
 <a href="https://www.instagram.com/hossam_elshair_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-<a href="https://tiktok.com/hossam_elshair" target="_blank"><img src="https://img.shields.io/badge/Tiktok-%230A0A0A.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="Tiktok"></a>
+<a href="https://www.tiktok.com/@hossam_elshair" target="_blank"><img src="https://img.shields.io/badge/Tiktok-%230A0A0A.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="Tiktok"></a>
 
 </div>
 
